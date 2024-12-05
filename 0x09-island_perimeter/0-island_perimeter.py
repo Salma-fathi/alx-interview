@@ -1,6 +1,8 @@
-#!/user/bin/python 3
-# -*-  coding : utf-8  -*-
-
+#!/usr/bin/python3
+"""
+A module: defines a function that calculates
+the perimeter of an island on a given grid
+"""
 
 def island_perimeter(grid):
     """"  The grid is completely surrounded by water
